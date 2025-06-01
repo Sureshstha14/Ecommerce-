@@ -100,7 +100,7 @@ console.log(error)
             <option value='Topwear'>Topwear</option>
             <option value='Bottomwear'>Bottomwear</option>
             <option value='Footwear'>Footwear</option>
-          </select>
+          </select>K
         </div>
         <div>
           <p className='mb-2'> Product Price</p>
